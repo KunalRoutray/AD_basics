@@ -1,0 +1,26 @@
+                                                          ASSIGNMENT 1
+Q1# write a java program to find sum of n numbers
+Q2# write a java program to find  maximum and minimum element in an array
+Q3# write a java program to rotate an array by k position
+
+
+ 						          ASSIGNMENT  2
+
+Q1# write a java program to find largest contiguous subarray  do it in O(n)
+                            [given input array(3,4,-5,-7,2,5) output is 7]
+Q2# write a java program to find smallest possible missing no
+Q3# write a java program to convert max and min array (ex 1,2,3,4,5 output 5,1,4,2,3)
+  A]FOR SORTED ARRAY
+  B]FOR UNSORTED ARRAY
+Q4# write a java program to find factorial of a number
+Q5# write a java program to generate nth Fibonacci number
+ 
+							  ASSIGNMENT  3 [do using recursion]
+Q1# write a java program to find sum of n numbers
+Q2# write a java program to find max and min element in an array
+Q3# write a java program to find factorial of a number
+Q4# write a java program to  generate nth Fibonacci series
+Q5# write a java program to compute nth power of a number
+Q6# write a java program to find smallest positive missing number
+Q7# write a java program to  find GCD of  a number
+q8# write a java program to convert decimal (base 10)to hexa decimal(base 16)
