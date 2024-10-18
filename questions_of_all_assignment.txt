@@ -24,3 +24,10 @@ Q5# write a java program to compute nth power of a number
 Q6# write a java program to find smallest positive missing number
 Q7# write a java program to  find GCD of  a number
 q8# write a java program to convert decimal (base 10)to hexa decimal(base 16)
+
+
+                                                         ASSIGNMENT    4  [Sorting algorithms]
+Q1# write a java program to sort an array using insertion sort
+Q2# write a java program to sort an array using selection  sort
+Q3# write a java program to sort an array using bubble sort
+ 
