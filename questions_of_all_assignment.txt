@@ -30,4 +30,23 @@ q8# write a java program to convert decimal (base 10)to hexa decimal(base 16)
 Q1# write a java program to sort an array using insertion sort
 Q2# write a java program to sort an array using selection  sort
 Q3# write a java program to sort an array using bubble sort
+      
+
+                                                          ASSIGNMENT     5
+Q1# write a java program to perform reduction operation in an array display array after each reduction also count possible reduction
+Q2# write a java program to merge two sorted array
+Q3# write a java program to find if reversing a sub array male the array sorted 
  
+
+                                                          ASSIGNMENT     6[SEARCHING]
+Q1# linear search using iteration
+Q2# linear search using recursion
+Q3# binary search using iteration
+Q4# binary search using recursion
+
+                                                          ASSSIGNMENT      7
+Q1# find first repeated element in an array
+Q2#  print all duplicate elements in an array
+Q3#  find missing number in an array
+Q4#   given an array of integers find the pair of element pr with max and min difference
+Q5#   given a list of n numbers find the element  which occur maximum number of times
