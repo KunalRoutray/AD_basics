@@ -50,3 +50,14 @@ Q2#  print all duplicate elements in an array
 Q3#  find missing number in an array
 Q4#   given an array of integers find the pair of element pr with max and min difference
 Q5#   given a list of n numbers find the element  which occur maximum number of times
+
+
+
+                                                           ASSIGNMENT      8
+Q1# Implementation of stack using array
+Q2#Implementation of stack using  LINKLIST
+
+
+                                                           ASSIGNMENT       9
+Q1#Implementation of QUEUE using array
+Q2#Implementation of queue using linklist
